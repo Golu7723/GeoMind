@@ -13,7 +13,10 @@
         android:theme="@style/Theme.GeoMind">
         <activity
             android:name=".MainActivity"
+            />
+        <activity android:name=".LogoTime"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
