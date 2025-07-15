@@ -5,6 +5,12 @@
 *.iml
 *.ipr
 *.iws
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
 
 # ====================================
 # Build / Gradle Files
@@ -19,6 +25,7 @@ output-metadata.json
 
 # Local configuration (do not share SDK path)
 local.properties
+/.local.properties
 
 # ====================================
 # OS-specific Files
